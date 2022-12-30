@@ -39,3 +39,21 @@ body {
   font-weight: bold;
   padding: 1em;
 }
+
+.newheading {
+  color: rgb(255 255 255/0.8);
+  text-align: center;
+  padding: 2rem;
+  font-size: 4rem;
+}
+
+details,
+details p {
+  background-color: palegreen;
+  color: #333;
+  padding: 2rem;
+  margin: 2rem auto;
+  font-size: 2rem;
+  font-weight: 900;
+  width: 50%;
+}
